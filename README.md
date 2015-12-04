@@ -1,7 +1,7 @@
 # CountLetter
 
 ## About This Java Script
-- This program is my Final Assignment on my Java Course, I submit it after deadline， so that nobody can copy my code on this sem.
+- This program is my Final Assignment on my Java Course, I submit it after deadline, so that nobody can copy my code on this sem.
 - I share it just for my friend and let them know how to do it.
 
 ##Lisense
@@ -12,4 +12,4 @@
 - That will let you lost all grading for your course, plz.
 
 #Feedback
--If you have any suggstion for this script, please submit the pull requests to let me know. That can let me do better, Thank You!
+- If you have any suggstion for this script, please submit the pull requests to let me know. That can let me do better, Thank You!
